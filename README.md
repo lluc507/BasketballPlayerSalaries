@@ -2,4 +2,5 @@
 # Bias in Basketball: Understanding What Determines Player Salary Through Machine Learning
 
 Harrison Knapp
+
 Leon Luc
